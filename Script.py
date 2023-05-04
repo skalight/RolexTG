@@ -111,13 +111,13 @@ Nᴀᴍᴇ - {}"""
 
     OLD_ALRT_TXT = """🔆 Hey {}, ❗Link Expired, Please Request Again ♻"""
 
-    CUDNT_FND = """<b><i>⚠ No Results, Please Follow Request Tips !!</i></b> \n <b><i>♀ Request Tips › [Click Here](https://t.me/RolexMoviesOX/196)</i></b>"""
+    CUDNT_FND = """<b><i>⚠ No Results Found</i></b>"""
 
-    I_CUDNT = """<b><i>⚠ No Results, Please Follow Request Tips !!</i></b> \n <b><i>♀ Request Tips › [Click Here](https://t.me/RolexMoviesOX/196)</i></b>"""
+    I_CUDNT = """<b><i>⚠ No Results Found</i></b>"""
 
-    I_CUD_NT = """<b><i>⚠ No Results, Please Follow Request Tips !!</i></b> \n <b><i>♀ Request Tips › [Click Here](https://t.me/RolexMoviesOX/196)</i></b>"""
+    I_CUD_NT = """<b><i>⚠ No Results Found</i></b>"""
 
-    MVE_NT_FND = """<b><i>⚠ No Results, Please Follow Request Tips !!</i></b> \n <b><i>♀ Request Tips › [Click Here](https://t.me/RolexMoviesOX/196)</i></b>"""
+    MVE_NT_FND = """<b><i>⚠ No Results Found</i></b>"""
 
     TOP_ALRT_MSG = """Cʜᴇᴄᴋɪɴɢ Fᴏʀ Mᴏᴠɪᴇ Iɴ 1 Million Dᴀᴛᴀʙᴀsᴇ..."""
 
