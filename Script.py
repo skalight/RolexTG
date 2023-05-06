@@ -122,16 +122,14 @@ Nᴀᴍᴇ - {}"""
     TOP_ALRT_MSG = """Cʜᴇᴄᴋɪɴɢ Fᴏʀ Mᴏᴠɪᴇ Iɴ 1 Million Dᴀᴛᴀʙᴀsᴇ..."""
 
     MELCOW_ENG = """<b>Hᴇʟʟᴏ {} 😍, Aɴᴅ Wᴇʟᴄᴏᴍᴇ Tᴏ {} Gʀᴏᴜᴘ ❤️</b> 
-    𝐉𝐨𝐢𝐧 𝐨𝐮𝐫 𝐦𝐚𝐢𝐧 𝐜𝐡𝐚𝐧𝐧𝐞𝐥 𝐝𝐮𝐞 𝐭𝐨 𝐡𝐞𝐚𝐯𝐲 𝐜𝐨𝐩𝐲𝐫𝐢𝐠𝐡𝐭𝐬 𝐢𝐧 𝐜𝐚𝐬𝐞 𝐭𝐡𝐞 𝐛𝐚𝐜𝐤𝐮𝐩 
-    𝐢𝐬 𝐛𝐚𝐧𝐧𝐞𝐝  𝐬𝐨 𝐣𝐨𝐢𝐧 𝐭𝐡𝐞 𝐦𝐚𝐢𝐧 𝐜𝐡𝐚𝐧𝐧𝐞𝐥
-
-@Jail_Linkzz 
-
-@Jail_Linkzz
-
-@Jail_Linkzz 
-
-Join our main channel guys ❤️❤️"""
+    𝐉𝐨𝐢𝐧 𝐨𝐮𝐫 𝐦𝐚𝐢𝐧 𝐜𝐡𝐚𝐧𝐧𝐞𝐥 𝐝𝐮𝐞 𝐭𝐨 𝐡𝐞𝐚𝐯𝐲 𝐜𝐨𝐩𝐲𝐫𝐢𝐠𝐡𝐭𝐬 𝐢𝐧 𝐜𝐚𝐬𝐞 𝐭𝐡𝐞 𝐛𝐚𝐜𝐤𝐮𝐩 𝐢𝐬 𝐛𝐚𝐧𝐧𝐞𝐝  𝐬𝐨 𝐣𝐨𝐢𝐧 𝐭𝐡𝐞 𝐦𝐚𝐢𝐧 𝐜𝐡𝐚𝐧𝐧𝐞𝐥
+    @Jail_Linkzz 
+    
+    @Jail_Linkzz
+    
+    @Jail_Linkzz 
+    
+    Join our main channel guys ❤️❤️"""
 
     OWNER_INFO = """
 <b>⍟───[ ᴏᴡɴᴇʀ ᴅᴇᴛᴀɪʟꜱ ]───⍟
